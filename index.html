@@ -269,42 +269,9 @@
       gap: 20px;
     }
 
+ 
+
     .project-card {
-  position: relative;
-  overflow: hidden;
-  cursor: pointer;
-  border-radius: 10px;
-}
-
-.project-card .project-img {
-  display: block;
-  width: 100%;
-  height: auto;
-  transition: transform 0.4s ease;
-}
-
-.project-card .project-info {
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  background: rgba(0,0,0,0.8);
-  color: white;
-  padding: 20px;
-  transform: translateY(100%);
-  transition: transform 0.4s ease;
-}
-
-/* When the card has .active, slide up both image and info */
-.project-card.active .project-img {
-  transform: scale(1.1);
-}
-
-.project-card.active .project-info {
-  transform: translateY(0);
-}
-
-    /*.project-card {
       background: #111;
       padding: 20px;
       border-radius: 10px;
@@ -324,7 +291,7 @@
   text-decoration: none;
   border-radius: 5px;
   transition: background 0.3s ease;
-}*/
+}
 
 .project-card a:hover {
   background-color: #cc00cc;
@@ -509,14 +476,12 @@
     <h2>LATEST PROJECTS</h2>
     <div class="projects-grid">
       <div class="project-card">
+       <h3>FINANCE GUIDE</h3>
+    <p>Smart Budget Allocator</p>
         <img src="project-image.png" alt="Project">
-         <!-- This is the hidden overlay panel -->
-        <div class="project-info">
-        <h3>FINANCE GUIDE</h3>
-    <p>A smart budget planner that allocates your full income into essential budget categories</p>
       <a href="https://finance-guide.netlify.app/" target="_blank">🔗 Visit</a>
-        </div>   
       </div>
+      
       <div class="project-card">
         <img src="https://via.placeholder.com/300x180" alt="Project">
         <a href="#">🔗 Visit</a>
