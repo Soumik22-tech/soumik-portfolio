@@ -30,9 +30,9 @@ I have hands-on experience with **C, Python, HTML, CSS, JavaScript, React**, and
 ---
 
 ### 🔗 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/YOUR-LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/https://www.linkedin.com/in/soumik-majumder-b04343333/)
 
 ---
 
 ### 📊 GitHub Analytics
-![Soumik's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark)
+![Soumik's GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/Soumik22-tech/&show_icons=true&theme=github_dark)
